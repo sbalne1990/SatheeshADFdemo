@@ -1,0 +1,9 @@
+{
+	"name": "balneADFdev",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "12e2adff-6cf0-4e42-91d6-7df169c81f7a",
+		"tenantId": "7c2c3a12-4ac8-4751-9b2b-d8a2ec72c90e"
+	}
+}
