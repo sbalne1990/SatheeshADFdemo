@@ -4,6 +4,12 @@
 	"parameters": {
 		"factoryName": {
 			"value": "balneADFdev"
+		},
+		"Datalake1_accountKey": {
+			"value": ""
+		},
+		"Datalake1_properties_typeProperties_url": {
+			"value": "https://satheeshcontainer.dfs.core.windows.net/"
 		}
 	}
 }
